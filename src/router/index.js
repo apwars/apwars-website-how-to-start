@@ -13,6 +13,7 @@ import WarriorWeekly from "@/views/warrior/WarriorWeekly.vue";
 import TheMonstrousJourney from "@/views/games/TheMonstrousJourney.vue";
 import Arcadia from "@/views/games/Arcadia.vue";
 import Wars from "@/views/games/Wars.vue";
+import Liquidity from "@/views/games/Liquidity.vue";
 
 Vue.use(VueRouter);
 
@@ -220,6 +221,33 @@ const routes = [
               text: "Merchant",
               exact: true,
               to: "/merchant",
+            },
+          ],
+        },
+      },
+
+      {
+        path: "/liquidity",
+        name: "Liquidity",
+        component: Liquidity,
+        meta: {
+          title: "Provide Liquidity",
+          mode: "merchant",
+          breadcrumbs: [
+            {
+              text: "How to Start",
+              exact: true,
+              to: "/select-game",
+            },
+            {
+              text: "Merchant",
+              exact: true,
+              to: "/merchant",
+            },
+            {
+              text: "Liquidity",
+              exact: true,
+              to: "/liquidity",
             },
           ],
         },
