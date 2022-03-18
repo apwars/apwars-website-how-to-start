@@ -40,6 +40,7 @@ export default {
 }
 
 .text {
+  margin: 12px 0;
   color: #fff;
 }
 </style>
