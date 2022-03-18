@@ -19,7 +19,7 @@ export default {
 
 <style scoped>
 .basic-button {
-  padding: 6px 36px !important;
+  padding: 6px 24px !important;
   font-weight: bold;
   font-size: max(2vw, 26px) !important;
   line-height: unset;

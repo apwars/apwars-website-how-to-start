@@ -80,11 +80,15 @@ export default {
 }
 
 .option {
-  padding: 24px 48px;
+  padding: 24px;
 
   .icon {
     display: flex;
     justify-content: center;
+
+    img {
+      max-width: 100%;
+    }
   }
 
   .action {

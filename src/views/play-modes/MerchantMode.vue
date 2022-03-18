@@ -44,7 +44,7 @@ export default {
 
 .actions {
   display: flex;
-  margin-top: 36px;
+  margin: 36px 0;
   justify-content: center;
   align-items: center;
   flex-grow: 0;
