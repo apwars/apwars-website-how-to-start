@@ -130,9 +130,9 @@ const routes = [
               to: "/warrior",
             },
             {
-              text: "Weekly",
+              text: "Daily",
               exact: true,
-              to: "/warrior/weekly",
+              to: "/warrior/daily",
             },
             {
               text: "TMJ",
@@ -161,9 +161,9 @@ const routes = [
               to: "/warrior",
             },
             {
-              text: "Weekly",
+              text: "Daily",
               exact: true,
-              to: "/warrior/weekly",
+              to: "/warrior/daily",
             },
             {
               text: "Arcadia",
