@@ -1,8 +1,8 @@
 <template>
   <div class="main">
-    <div class="logo">
+    <a class="logo" href="https://www.apwars.farm/">
       <img src="~@/assets/images/logo.png" />
-    </div>
+    </a>
     <div class="main-title">HOW TO START?</div>
     <div class="subtitle">
       <div>A medieval metaverse made for you to play your way!</div>
@@ -82,6 +82,8 @@ export default {
 }
 
 .logo {
+  display: block;
+
   img {
     height: 90px;
   }

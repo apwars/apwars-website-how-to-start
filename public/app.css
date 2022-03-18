@@ -8,6 +8,11 @@
   margin: 0 auto;
 }
 
+.v-breadcrumbs {
+  padding: 0 !important;
+  font-weight: bold;
+}
+
 .v-breadcrumbs a, .v-breadcrumbs .v-breadcrumbs__divider {
   color: #ffe600 !important;
 }

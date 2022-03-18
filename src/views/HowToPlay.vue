@@ -1,8 +1,8 @@
 <template>
   <div class="main">
-    <div class="logo">
+    <a class="logo" href="https://www.apwars.farm/">
       <img src="~@/assets/images/logo.png" />
-    </div>
+    </a>
     <div class="main-title">HOW TO START?</div>
     <div>
       <basic-button class="start-here-btn" @click="onClickButton">
@@ -40,6 +40,8 @@ export default {
 }
 
 .logo {
+  display: block;
+
   img {
     height: 90px;
   }
