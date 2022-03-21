@@ -1,6 +1,6 @@
 <template>
   <div class="game container">
-    <div class="header">Follow to steps</div>
+    <div class="header">Steps to follow</div>
     <videos-list :videos="videos" />
   </div>
 </template>
@@ -19,7 +19,7 @@ export default {
         {
           index: "1",
           title: "Token Acquisition",
-          videoUrl: "",
+          videoUrl: "https://www.youtube.com/embed/KYU_5ve-f4o",
           texts: [
             "The first step to participate in medieval metaverse tokenomics is to purchase the game's utility tokens. That is, to acquire the main operating token, which is wGOLD.",
             "Then it is necessary to ask for help from Otto, a guardian who will facilitate your journey in the game. Once that's done, bring your tokens to the medieval metaverse through the APWars Bridge. It's quite a trip!",
@@ -28,8 +28,8 @@ export default {
         },
         {
           index: "2",
-          title: "Loyalty Program ",
-          videoUrl: "https://www.youtube.com/embed/Z9rt2rb67Mo",
+          title: "Loyalty Program",
+          videoUrl: "https://www.youtube.com/embed/YND7LUFKtPg",
           texts: [
             "For this merchant participation to be good for you, you must participate in the Loyalty Program. Which means that you must provide liquidity. ",
             "The pair for liquidity provision must be in wGOLD/BUSD.",
@@ -38,7 +38,7 @@ export default {
         },
         {
           index: "3",
-          title: "",
+          title: "Rewards and Negotiation",
           videoUrl: "",
           texts: [
             "By joining the Loyalty Program, you will earn points (War SCARS) that can be exchanged for game items. These game items can be sold in the Black Market later. Good sales, merchant!",

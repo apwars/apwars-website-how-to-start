@@ -1,9 +1,9 @@
 <template>
   <div class="merchant-mode container">
     <div class="subtitle">
-      <div>You can choose to be a Loyal Warrior.</div>
+      <div>You can choose to be a Loyal Merchant.</div>
       <div>
-        Loyal Warriors have access to reward systems and unique avatars.
+        Loyal Merchants have access to reward systems and unique avatars.
       </div>
       <div>Have you ever thought about your highlight in the game?</div>
     </div>

@@ -1,6 +1,6 @@
 <template>
   <div class="game container">
-    <div class="header">Follow to steps</div>
+    <div class="header">Steps to follow</div>
     <videos-list :videos="videos" />
   </div>
 </template>
@@ -19,7 +19,7 @@ export default {
         {
           index: "1",
           title: "Tokens, Guardian and Bridge",
-          videoUrl: "https://www.youtube.com/embed/4TzXIYe1HXo",
+          videoUrl: "https://www.youtube.com/embed/KYU_5ve-f4o",
           texts: [
             "The first step to conquering anything in the medieval metaverse is purchasing the game's utility tokens. With them, you can acquire soldiers, packs, and also pay for services. That is, utility tokens do have a lot of utility.",
             "Then, it is necessary to ask for help from Otto, a guardian that will facilitate your journey in the game. Once that's done, bring your tokens to the medieval metaverse through the APWars Bridge. It's quite a journey!",
@@ -32,7 +32,7 @@ export default {
           videoUrl: "https://www.youtube.com/embed/JU9E1ixf4Dw",
           texts: [
             "Now it's time for action! To start playing, you need to unlock a Soldier. Once you unlock your soldier, you can show off your gameplay skills in TMJ, the most monstrous beat 'em up in the world!",
-            "After having fun, you'll need to recharge your courage bar to maintain your frequency. Keeping the courage bar full and using refills guarantees more games and, consequently, more rewards.",
+            "After having fun, you'll need to recharge your courage bar to maintain your frequency. Keeping the courage bar full and using refills guarantee more games and, consequently, more rewards.",
             "Watch the video to understand how to do each simple step.",
           ],
         },

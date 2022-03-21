@@ -1,10 +1,8 @@
 <template>
   <div class="warrior-weekly container">
     <div class="subtitle">
-      <div>
-        Well done! Now we can turn you into a great warrior, are you ready to
-        battle, rise and conquer?
-      </div>
+      <div>Well done! Now we can turn you into a great Warrior.</div>
+      <div>Are you ready to battle, rise and conquer?</div>
     </div>
     <v-row class="options">
       <v-col

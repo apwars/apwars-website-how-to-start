@@ -47,7 +47,7 @@ const routes = [
           mode: "warrior",
           breadcrumbs: [
             {
-              text: "How to Start",
+              text: "How to Play",
               exact: true,
               to: "/select-game",
             },
@@ -68,7 +68,7 @@ const routes = [
           mode: "warrior",
           breadcrumbs: [
             {
-              text: "How to Start",
+              text: "How to Play",
               exact: true,
               to: "/select-game",
             },
@@ -94,7 +94,7 @@ const routes = [
           mode: "warrior",
           breadcrumbs: [
             {
-              text: "How to Start",
+              text: "How to Play",
               exact: true,
               to: "/select-game",
             },
@@ -120,7 +120,7 @@ const routes = [
           mode: "warrior",
           breadcrumbs: [
             {
-              text: "How to Start",
+              text: "How to Play",
               exact: true,
               to: "/select-game",
             },
@@ -151,7 +151,7 @@ const routes = [
           mode: "warrior",
           breadcrumbs: [
             {
-              text: "How to Start",
+              text: "How to Play",
               exact: true,
               to: "/select-game",
             },
@@ -182,7 +182,7 @@ const routes = [
           mode: "warrior",
           breadcrumbs: [
             {
-              text: "How to Start",
+              text: "How to Play",
               exact: true,
               to: "/select-game",
             },
@@ -213,7 +213,7 @@ const routes = [
           mode: "merchant",
           breadcrumbs: [
             {
-              text: "How to Start",
+              text: "How to Play",
               exact: true,
               to: "/select-game",
             },
@@ -235,7 +235,7 @@ const routes = [
           mode: "merchant",
           breadcrumbs: [
             {
-              text: "How to Start",
+              text: "How to Play",
               exact: true,
               to: "/select-game",
             },
