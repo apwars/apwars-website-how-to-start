@@ -48,8 +48,8 @@ export default {
         },
         {
           index: "4",
-          title: "Resources, looting and protection",
-          videoUrl: "",
+          title: "Buildings and Looting",
+          videoUrl: "https://www.youtube.com/embed/3fTfKLIRg5c",
           texts: [
             "This just got real! Now you must protect your land. How about building a wall to protect your resources? After all, if you can loot, so can another player, and that could be on your properties!",
             "It's important to mention that to bring your Bridge resources (off-chain to on-chain and vice versa), you must build a Warehouse. Be sure to follow your progress on the Arcadia leaderboard. It looks like you're about to be a great owner!",
