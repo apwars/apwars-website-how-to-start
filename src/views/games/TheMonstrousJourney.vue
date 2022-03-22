@@ -52,7 +52,6 @@ export default {
           videoUrl: "",
           texts: [
             "In addition to giving you War SCARS and allowing you to be a powerful warrior, the mini-game prepares you for wars. That is, it is through TMJ that you evolve to battle well equipped.",
-            "Watch the video to understand how to do each simple step.",
           ],
         },
       ],

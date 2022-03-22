@@ -39,7 +39,7 @@ export default {
         {
           index: "3",
           title: "Rewards and Negotiation",
-          videoUrl: "",
+          videoUrl: "https://www.youtube.com/embed/6vYCgd6wFiY",
           texts: [
             "By joining the Loyalty Program, you will earn points (War SCARS) that can be exchanged for game items. These game items can be sold in the Black Market later. Good sales, merchant!",
             "Watch the video to understand how to do each simple step.",
